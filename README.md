@@ -2,6 +2,9 @@
 
 A new macOS driver for the Realtek RTL812x family of 2.5GBit Ethernet Controllers
 
+**Please direct support requests to the project's thread on [Insanelymac.com](https://www.insanelymac.com/forum/topic/362326-rtl812xlucy-for-the-realtek-rtl812x-family/)**
+
+
 **Key Features of RTL812xLucy**
 
 * Supports all versions of Realtek's RTL8125 2.5GBit Ethernet Controllers:
